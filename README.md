@@ -2,6 +2,11 @@
 
 This repository contains a feature-rich trainer tool designed for **FC 25**, allowing players to customize and manipulate various game parameters to enhance gameplay or unlock hidden functionalities.
 
+### How to use?
+- Make sure your Fc25 is closed
+- Then run the executabile file and wait for game to open :)
+- Enjoy :)
+
 ### Features:
 
 #### 1. General Settings:
